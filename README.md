@@ -1,5 +1,5 @@
 ## Check out my application on SMS Spam Detection
-[https://sms-spam-detection-i2nemmz1le.streamlit.app/]
+[https://nf25flggqtp3kx3q7hwzep.streamlit.app/]
 # SMS Spam Detection
 
 This project aims to develop a machine-learning model to detect spam messages in SMS text data. It utilizes natural language processing (NLP) techniques and a supervised learning algorithm to classify SMS messages as either spam or non-spam (ham).
